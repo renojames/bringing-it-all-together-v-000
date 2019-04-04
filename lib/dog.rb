@@ -78,4 +78,8 @@ class Dog
     dog = self.new(id: dog_info[0], name: dog_info[1], breed: dog_info[2])
   end
 
+  def update
+
+  end
+
 end
